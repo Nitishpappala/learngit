@@ -1,0 +1,11 @@
+application:
+  name: HelloWorldApp
+  version: 1.0.0
+
+output:
+  message: "Hello, World!"
+  format: plain_text
+
+logging:
+  level: info
+  file: logs/hello-world.log
